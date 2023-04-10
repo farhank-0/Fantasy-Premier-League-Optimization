@@ -1,8 +1,8 @@
 # FPL-CAPSTONE
 
-Farhan Kassam 
-farhankassam0@gmail.com
-https://github.com/farhank-0
+Farhan Kassam <br>
+farhankassam0@gmail.com <br>
+https://github.com/farhank-0<br>
 
 This project attempts to predict player points in FPL via modelling and select a team using mixed integer linear programming in Python. The following is a break-down of the files included in this repository.
 
