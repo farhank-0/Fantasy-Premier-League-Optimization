@@ -8,6 +8,7 @@ This project attempts to predict player points in FPL via modelling and select a
 
 The `summary-reports` folder contains three files:
 
+<<<<<<< HEAD
 1. `Farhan_Kassam_FPL_Capstone_Demo_Day.pptx` <br>
   - Demo Day presentation slides
 2. `Farhan_Kassam_FPL_Capstone_Presenation.pptx` <br>
