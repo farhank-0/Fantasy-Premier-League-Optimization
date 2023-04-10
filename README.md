@@ -9,11 +9,11 @@ This project attempts to predict player points in FPL via modelling and select a
 The `summary-reports` folder contains three files:
 
 1. `Farhan_Kassam_FPL_Capstone_Demo_Day.pptx` <br>
-  - Demo Day presentation slides
+    - Demo Day presentation slides
 2. `Farhan_Kassam_FPL_Capstone_Presenation.pptx` <br>
-  - Final Presentation slides
+    - Final Presentation slides
 3. `Farhan_Kassam_FPL_Capstone_Report.pdf` <br>
-  - Final capstone written report
+    - Final capstone written report
 
 **NOTE TO RUN THE JUYPTER NOTEBOOKS YOU MUST HAVE THE FOLLOWING ENVIRONMENT**
 - `capstone.yml` 
@@ -30,13 +30,13 @@ The `notebooks` folder contains three juypter-notebooks:
 The `data` folder contains four comma separated files:
 
 1. `merged-gw.csv` <br>
-  - The original dataset from Vaastav's GitHub repository.
+    - The original dataset from Vaastav's GitHub repository.
 2. `cleaned.csv` <br>
-  - The cleaned data returned from the data cleaning notebook to use in modelling
+    - The cleaned data returned from the data cleaning notebook to use in modelling
 3. `aggregated.csv` <br>
-  - Aggregated data to test our team selector MILP model on
+    - Aggregated data to test our team selector MILP model on
 4. `pred_df.csv` <br>
-  - The predictions from the model to be used in the team selector MILP model
+    - The predictions from the model to be used in the team selector MILP model
 
 **References**
 1. Anand, Vaastav. (2023). <i>FPL Historical Dataset</i>. https://github.com/vaastav/Fantasy-Premier-League/
