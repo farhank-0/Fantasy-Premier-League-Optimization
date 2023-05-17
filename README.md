@@ -6,13 +6,9 @@ https://github.com/farhank-0<br>
 
 This project attempts to predict player points in FPL via modelling and select a team using mixed integer linear programming in Python. The following is a break-down of the files included in this repository.
 
-The `summary-reports` folder contains three files:
+The `summary-reports` folder contains one file:
 
-1. `Farhan_Kassam_FPL_Capstone_Demo_Day.pptx` <br>
-    - Demo Day presentation slides
-2. `Farhan_Kassam_FPL_Capstone_Presenation.pptx` <br>
-    - Final Presentation slides
-3. `Farhan_Kassam_FPL_Capstone_Report.pdf` <br>
+1. `Farhan_Kassam_FPL_Capstone_Report.pdf` <br>
     - Final capstone written report
 
 **NOTE TO RUN THE JUYPTER NOTEBOOKS YOU MUST HAVE THE FOLLOWING ENVIRONMENT**
