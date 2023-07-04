@@ -34,6 +34,11 @@ The `data` folder contains four comma separated files:
 4. `pred_df.csv` <br>
     - The predictions from the model to be used in the team selector MILP model
 
+The `post_bootcamp` folder contains a `data` folder and a `notebooks` folder for all changes that occur after the bootcamp and may replace previous breakdown in the future.
+Currently, the `notebooks` folder contains:
+1. `1_FPL_API_get_data` <br>
+    - Using the FPL API to retrieve and sort data using `pandasql`, saves outputs to csv files in `data` folder.
+
 **References**
 1. Anand, Vaastav. (2023). <i>FPL Historical Dataset</i>. https://github.com/vaastav/Fantasy-Premier-League/
 2. Khalid, Irfan. Sep, 2021. <i>How to Build A Fantasy Premier League Team with Data Science</i>. https://towardsdatascience.com/how-to-build-a-fantasy-premier-league-team-with-data-science-f01283281236.
